@@ -14,7 +14,7 @@ h1 {
 
 p, ul {
 	font-family: "Times New Roman", serif;
-	color: #497335;
+	color: #FFFFFF;
 	max-width: 30em;
 	width: 100%;
 	text-align: left;
@@ -23,7 +23,7 @@ p, ul {
 	line-height: 1.3;
 }
 
-img.logo {
+img.logo .center {
 	width: 100%;
 	height: auto;
 	max-width: 400px;
