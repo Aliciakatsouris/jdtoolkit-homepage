@@ -47,9 +47,9 @@ img.jdtlogo .center {
 }
 
 nav a {
-	background: grey;
+	background:black;
 	font-family: "Special Elite", Astigmatic;
-	color: #FFFFFF;
+	color: #c0c0c0;
 	font-size: 3em;
 	display: inline-block; 
 	margin-right: 15px;
@@ -59,7 +59,7 @@ nav a {
 }
 
 nav {
-	background:grey;
+	background:black;
 	width: 50%;
 	margin: 0 auto; 
 
